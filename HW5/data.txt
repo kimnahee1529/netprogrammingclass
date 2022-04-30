@@ -1,0 +1,10 @@
+Tue Apr  5 22:18:32 2022: Temp=14, Humid=90, lilum=143
+Tue Apr  5 22:18:33 2022: Heartbeat=50, Steps=5566, Cal=3753
+Tue Apr  5 22:18:33 2022: Temp=16, Humid=73, lilum=83
+Tue Apr  5 22:18:33 2022: Heartbeat=54, Steps=5817, Cal=1024
+Tue Apr  5 22:18:33 2022: Temp=12, Humid=5, lilum=94
+Tue Apr  5 22:18:34 2022: Heartbeat=99, Steps=4053, Cal=3837
+Tue Apr  5 22:18:34 2022: Temp=35, Humid=39, lilum=145
+Tue Apr  5 22:18:34 2022: Heartbeat=137, Steps=3627, Cal=3888
+Tue Apr  5 22:18:35 2022: Temp=23, Humid=7, lilum=76
+Tue Apr  5 22:18:35 2022: Heartbeat=80, Steps=3335, Cal=1438
